@@ -1,4 +1,4 @@
-'''lua
+
 --[[ fixed as 3/27/2022
 created by Xyba and fixed by juN aka felipe rumanov.]]
 
@@ -169,4 +169,3 @@ pcall(function()
             hop()
         end
     end)
-'''
